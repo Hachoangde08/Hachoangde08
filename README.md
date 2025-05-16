@@ -50,6 +50,4 @@
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)<br>
 ![Made with Passion](https://img.shields.io/badge/Made%20with-Đam%20mê-red)
 ![Status](https://img.shields.io/badge/status-FA-inactive)
-![Dev](https://img.shields.io/badge/dev-Hachoangde08-blueviolet)<br>
-
- đc chưa
+![Dev](https://img.shields.io/badge/dev-Hachoangde08-blueviolet)<br>  
