@@ -31,7 +31,7 @@
 
 <br />
 </p>
-<div style="border: 3px solid #ff99cc; border-radius: 15px; padding: 5px; width: 100%;">
+
 <h3 align="center"> 🌃 My Github stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minhhoang-devk8&show_icons=true&include_all_commits=true&theme=radical" alt="Minh Hoàng's GitHub stats" />
@@ -47,4 +47,3 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-</div>
