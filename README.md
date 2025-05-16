@@ -45,4 +45,7 @@
   <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+
 
