@@ -34,9 +34,8 @@
   <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<p align="center">
-  ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-  ![Made with Passion](https://img.shields.io/badge/Made%20with-Đam%20mê-red)
-  ![Dev](https://img.shields.io/badge/dev-Hachoangde08-blueviolet)
-</p>
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)<br>
+![Made with Passion](https://img.shields.io/badge/Made%20with-Đam%20mê-red)
+![Status](https://img.shields.io/badge/status-FA-inactive)
+![Dev](https://img.shields.io/badge/dev-Hachoangde08-blueviolet)<br>
