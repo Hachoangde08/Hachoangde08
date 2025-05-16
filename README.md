@@ -1,33 +1,25 @@
 <!-- Banner full màn hình -->
 
-<p align="center">
-  <img src="https://github.com/minhhoanq/minhhoanq/raw/main/assets/gif/developer.gif" width="100%" />
-</p>
+<div style="border: 2px dashed #81d4fa; border-radius: 12px; padding: 20px; margin-top: 20px; background-color: #0d1117;">
+  <h4 align="center" style="color: #ff99cc;">
+    A developer from Hai Phong, Vietnam  🇻🇳(_　_)。゜zｚＺ
+  </h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&center=true&vCenter=true&width=1000&speed=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Minh+Ho%C3%A0ng+%F0%9F%98%80;Welcome+to+my+profile!+%F0%9F%92%BB;Let's+build+something+amazing+together!+%F0%9F%9A%80" />
-</p>
+  <p align="center">
+    <em style="color: #f0f8ff; font-size: 18px;">
+      I'm a self-taught passionate <span style="color:#81d4fa;">BackEnd</span> developer from Vietnam (❁´◡`❁) 💞
+    </em>
+  </p>
 
-<h4 align="center" style="color: #ff99cc;">
-  A developer from Hai Phong, Vietnam  🇻🇳(_　_)。゜zｚＺ
-</h4>
+  <h3>💫 About me</h3>
+  <ul>
+    <li>💼 <span style="color:#4fc3f7;">Currently learning and building cool stuff with web technologies</span> 🥞</li>
+    <li>📈 <span style="color:#f06292;">Inspired by open source projects like github-readme-stats and more</span> 🍟</li>
+    <li>❤️ <span style="color:#81c784;">I love writing java, PHP and SQL server</span> 🍔</li>
+    <li>💬 <span style="color:#ba68c8;">Ask me about web dev, gaming gear, or anything tech-related!</span> 🍱</li>
+  </ul>
+</div>
 
-<br />
-
-<p align="center">
-  <em style="color: #f0f8ff; font-size: 18px;">
-    I'm a self-taught passionate <span style="color:#81d4fa;">BackEnd</span> developer from Vietnam (❁´◡`❁) 💞
-  </em>
-</p>
-
-<br />
-
-### 💫 <span style="color: #ffc107;">About me</span>
-
-- 💼 <span style="color:#4fc3f7;">Currently learning and building cool stuff with web technologies</span> 🥞  
-- 📈 <span style="color:#f06292;">Inspired by open source projects like github-readme-stats and more</span> 🍟  
-- ❤️ <span style="color:#81c784;">I love writing java, PHP and SQL server</span> 🍔  
-- 💬 <span style="color:#ba68c8;">Ask me about web dev, gaming gear, or anything tech-related!</span> 🍱  
 
 <br />
 </p>
