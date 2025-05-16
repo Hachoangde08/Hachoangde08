@@ -32,10 +32,7 @@
 <br />
 </p>
 
-<h3 align="center"> 🌃 My Github stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhhoang-devk8&show_icons=true&include_all_commits=true&theme=radical" alt="Minh Hoàng's GitHub stats" />
-</p>
+
 <h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhoang-devk8&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
