@@ -21,7 +21,7 @@
   </em>
 </p>
 
-<br />
+<hr>
 
 ### 💫 <span style="color: #ffc107;">About me</span>
 
