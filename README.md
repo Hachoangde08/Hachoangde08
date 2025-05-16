@@ -1,6 +1,6 @@
 <!-- Banner full màn hình -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhhoanq/minhhoanq/main/assets/gif/developer.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/minhhoanq/minhhoanq/main/assets/gif/developer.gif" width="100%" />
 </p>
 
 <p align="center">
