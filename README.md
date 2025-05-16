@@ -1,7 +1,7 @@
 <!-- Banner full màn hình -->
 
 <p align="center">
-  <img src="https://github.com/minhhoanq/minhhoanq/raw/main/assets/gif/developer.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/minhhoanq/minhhoanq/main/assets/gif/developer.gif" width="100%" />
 </p>
 
 <p align="center">
