@@ -32,12 +32,13 @@
 
 <br />
 </p>
-
+<hr>
 
 <h3 align="center">📊 Most Used Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhoang-devk8&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
+<hr>
 
 <h3 align="center">💖 My Favorite Languages</h3>
 <p align="center">
