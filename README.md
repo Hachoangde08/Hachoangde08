@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/minhhoanq/minhhoanq/main/assets/gif/developer.gif" width="100%" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&center=true&vCenter=true&width=1000&speed=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Minh+Ho%C3%A0ng+%F0%9F%98%80;Welcome+to+my+profile!+%F0%9F%92%BB;Let's+build+something+amazing+together!+%F0%9F%9A%80;Coding+is+my+superpower+%F0%9F%A7%AA;Always+learning%2C+always+growing+%F0%9F%8C%B1;Powered+by+coffee+%E2%98%95%EF%B8%8F+and+passion+%E2%9D%A4%EF%B8%8F;Follow+me+for+more+cool+projects+%F0%9F%93%88" />
 </p>
