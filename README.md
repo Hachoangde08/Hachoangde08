@@ -34,13 +34,13 @@
 </p>
 <hr>
 
-<h3 align="center">📊 Most Used Languages</h3>
+<h3>📊 Most Used Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachoangde08&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
 <hr>
 
-<h3 align="center">💖 My Favorite Languages</h3>
+<h3>💖 My Favorite Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
