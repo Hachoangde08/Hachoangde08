@@ -21,7 +21,7 @@
   </em>
 </p>
 
-<hr>
+
 
 ### 💫 <span style="color: #ffc107;">About me</span>
 
@@ -32,13 +32,13 @@
 
 <br />
 </p>
-<hr>
+
 
 <h3>📊 Most Used Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hachoangde08&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
-<hr>
+
 
 <h3>💖 My Favorite Languages</h3>
 <p align="center">
