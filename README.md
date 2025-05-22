@@ -80,5 +80,5 @@
 
 <!-- Footer -->
 <p align="center" style="color: #b0bec5; font-family: 'Roboto', sans-serif; font-size: 14px; margin-top: 30px;">
-  <em>Built with passion, powered by coffee ☕, and inspired by code 🚀</em>
+  <em>Donate me , I will buy coffee ☕, and inspired by code 🚀</em>
 </p>
