@@ -5,8 +5,10 @@
 
 <!-- Typing Animation with Enhanced Styling -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=FF79C6&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Minh+Hoàng+😄;Welcome+to+my+GitHub+Profile!+💻;Let's+Build+Something+Epic!+🚀;Coding+is+My+Superpower+🧙‍♂️;Always+Learning,+Always+Growing+🌱;Fueled+by+Coffee+☕+&+Passion+❤️;Follow+for+Awesome+Projects!+📈" alt="Typing SVG" style="margin: 20px 0;" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=800&color=FF79C6&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Minh+Hoàng+😄;Welcome+to+my+GitHub+Profile!+💻;Let's+Build+Something+Epic!+🚀;Coding+is+My+Superpower+🧙‍♂️;Always+Learning,+Always+Growing+🌱;Fueled+by+Coffee+☕+&+Passion+❤️;Follow+for+Awesome+Projects!+📈" alt="Typing SVG" style="margin: 20px 0;" />
 </p>
+
+
 
 <!-- About Me Header -->
 <h2 align="center" style="color: #ff79c6; font-family: 'Segoe UI', sans-serif; font-weight: 700; font-size: 28px; margin: 20px 0;">
