@@ -27,7 +27,7 @@
 
 - 💼 <span style="color:#4fc3f7;">Currently learning and building cool stuff with web technologies</span> 🥞  
 - 📈 <span style="color:#f06292;">Inspired by open source projects like github-readme-stats and more</span> 🍟  
-- ❤️ <span style="color:#81c784;">I love writing java, PHP and SQL server</span> 🍔  
+- ❤️ <span style="color:#81c784;">I love writing java, JavaScript and SQL server, assembly </span> 🍔  
 - 💬 <span style="color:#ba68c8;">Ask me about web dev, gaming gear, or anything tech-related!</span> 🍱  
 
 <br />
@@ -43,7 +43,7 @@
 <h3>💖 My Favorite Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=Blue"/>
+  <img src="https://img.shields.io/badge/assembly-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=Blue"/>
   <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
