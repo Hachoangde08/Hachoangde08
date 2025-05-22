@@ -3,32 +3,10 @@
   <img src="https://raw.githubusercontent.com/minhhoanq/minhhoanq/main/assets/gif/developer.gif" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 10px;" />
 </p>
 
-<!-- Typing Animation with Typed.js -->
+<!-- Typing Animation with readme-typing-svg -->
 <p align="center">
-  <span id="typed" style="font-size: 28px; font-weight: bold; color: #ffffff; text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);"></span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Minh+Hoàng+😄;Welcome+to+my+profile!+💻;Let's+build+something+amazing!+🚀;Coding+is+my+superpower+🧙‍♂️;Always+learning,+always+growing+🌱;Powered+by+coffee+☕+&+passion+❤️;Follow+me+for+cool+projects!+📈" alt="Typing SVG" />
 </p>
-
-<!-- Typed.js Script -->
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  var typed = new Typed('#typed', {
-    strings: [
-      "Hi 👋, I'm Minh Hoàng 😄",
-      "Welcome to my profile! 💻",
-      "Let's build something amazing! 🚀",
-      "Coding is my superpower 🧙‍♂️",
-      "Always learning, always growing 🌱",
-      "Powered by coffee ☕ & passion ❤️",
-      "Follow me for cool projects! 📈"
-    ],
-    typeSpeed: 50,
-    backSpeed: 30,
-    backDelay: 1500,
-    loop: true,
-    showCursor: true,
-    cursorChar: '|',
-  });
-</script>
 
 <!-- About Me Section -->
 <h4 align="center" style="color: #ff79c6; font-size: 20px; margin-top: 20px;">
@@ -74,17 +52,4 @@
   <img src="https://img.shields.io/badge/Made%20with-Đam%20mê-red?style=flat-square" />
   <img src="https://img.shields.io/badge/status-Active-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/dev-Hachoangde08-blueviolet?style=flat-square" />
-</p>
-
-<!-- Connect with Me -->
-<h3 align="center" style="color: #ffb300; margin-top: 30px;">🤝 Connect with Me</h3>
-<p align="center">
-  <a href="https://github.com/Hachoangde08"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7h3g8Y8cZ8Y/giphy.gif" width="100" style="margin-top: 20px;" />
 </p>
